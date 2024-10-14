@@ -132,6 +132,7 @@
   yazi
   git
   gh
+  vscode
   ];
   fonts.packages = with pkgs; [
 font-awesome
