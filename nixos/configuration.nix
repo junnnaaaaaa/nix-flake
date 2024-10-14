@@ -133,6 +133,8 @@
   git
   gh
   vscode
+  python313
+  ruby_3_3
   ];
   fonts.packages = with pkgs; [
 font-awesome
