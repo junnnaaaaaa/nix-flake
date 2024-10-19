@@ -26,8 +26,7 @@
 
   # Set your time zone.
   time.timeZone = "Australia/Perth";
-
-  # Select internationalisation properties.
+ # Select internationalisation properties.
   i18n.defaultLocale = "en_AU.UTF-8";
 
   i18n.extraLocaleSettings = {
@@ -132,9 +131,26 @@
   yazi
   git
   gh
-  vscode
-  python313
+  python3
   ruby_3_3
+  nodejs_22
+  ytfzf
+  fzf
+  ueberzug
+  mpv
+  yt-dlp
+  termusic
+  rustc
+  cargo
+  cava
+  xf86_input_wacom
+  waypaper
+  swww
+  glib
+  xclip
+  gvfs
+  pavucontrol
+  chromium
   ];
   fonts.packages = with pkgs; [
 font-awesome
