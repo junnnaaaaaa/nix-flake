@@ -131,7 +131,8 @@
   yazi
   git
   gh
-  python3
+  pipx
+  python313
   ruby_3_3
   nodejs_22
   ytfzf
@@ -151,6 +152,13 @@
   gvfs
   pavucontrol
   chromium
+  gnumake
+  gcc
+  gmp
+  mpfr
+  libmpc
+  binutils
+  gcc-arm-embedded
   ];
   fonts.packages = with pkgs; [
 font-awesome
